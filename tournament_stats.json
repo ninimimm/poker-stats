@@ -1,0 +1,742 @@
+{
+    "Andrewgodx": {
+        "tournaments": {
+            "09/13/2024:": {
+                "count_players": 9,
+                "players_names": [
+                    "Andrewgodx",
+                    "Gorosha007",
+                    "I7etrkukushkin",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Mmeddl",
+                    "Rjg_13",
+                    "Stresnyashka",
+                    "Ogurchick"
+                ],
+                "end_level": 9,
+                "live_time": "2:30:03",
+                "place": "8/9"
+            },
+            "09/14/2024:": {
+                "count_players": 6,
+                "players_names": [
+                    "Andrewgodx",
+                    "I7etrkukushkin",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Rjg_13",
+                    "Stresnyashka"
+                ],
+                "end_level": 14,
+                "live_time": "3:28:14",
+                "place": "3/6"
+            },
+            "10/04/2024:": {
+                "count_players": 9,
+                "players_names": [
+                    "Andrewgodx",
+                    "I7etrkukushkin",
+                    "Krashennyi",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Mmeddl",
+                    "Rjg_13",
+                    "Stresnyashka",
+                    "\u041a\u0438\u0440\u0438\u043b\u043b",
+                    "\u0414\u043c\u0438\u0442\u0440\u0438\u0439"
+                ],
+                "end_level": 15,
+                "live_time": "4:41:29",
+                "place": "7/10"
+            },
+            "10/11/2024:": {
+                "count_players": 9,
+                "players_names": [
+                    "Andrewgodx",
+                    "I7etrkukushkin",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Mmeddl",
+                    "Mmmmkkkrrrnnnn",
+                    "Rjg_13",
+                    "Stresnyashka",
+                    "\u041a\u0438\u0440\u0438\u043b\u043b"
+                ],
+                "end_level": 8,
+                "live_time": "2:13:03",
+                "place": "9/9"
+            }
+        },
+        "reentries": 0,
+        "total_knocked_out": 0,
+        "max_level": 15,
+        "games_played": 4
+    },
+    "Gorosha007": {
+        "tournaments": {
+            "09/13/2024:": {
+                "count_players": 9,
+                "players_names": [
+                    "Andrewgodx",
+                    "Gorosha007",
+                    "I7etrkukushkin",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Mmeddl",
+                    "Rjg_13",
+                    "Stresnyashka",
+                    "Ogurchick"
+                ],
+                "live_time": "0001-01-01 00:00:00"
+            }
+        },
+        "reentries": 1,
+        "total_knocked_out": 0,
+        "max_level": 14,
+        "games_played": 1,
+        "knocked_out_for_reentry": 0
+    },
+    "I7etrkukushkin": {
+        "tournaments": {
+            "09/13/2024:": {
+                "count_players": 9,
+                "players_names": [
+                    "Andrewgodx",
+                    "Gorosha007",
+                    "I7etrkukushkin",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Mmeddl",
+                    "Rjg_13",
+                    "Stresnyashka",
+                    "Ogurchick"
+                ],
+                "end_level": 9,
+                "live_time": "2:30:10",
+                "place": "7/9"
+            },
+            "09/14/2024:": {
+                "count_players": 6,
+                "players_names": [
+                    "Andrewgodx",
+                    "I7etrkukushkin",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Rjg_13",
+                    "Stresnyashka"
+                ],
+                "end_level": 14,
+                "live_time": "3:28:04",
+                "place": "4/6"
+            },
+            "10/04/2024:": {
+                "count_players": 9,
+                "players_names": [
+                    "Andrewgodx",
+                    "I7etrkukushkin",
+                    "Krashennyi",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Mmeddl",
+                    "Rjg_13",
+                    "Stresnyashka",
+                    "\u041a\u0438\u0440\u0438\u043b\u043b",
+                    "\u0414\u043c\u0438\u0442\u0440\u0438\u0439"
+                ],
+                "end_level": 12,
+                "live_time": "3:49:22",
+                "place": "10/10"
+            },
+            "10/11/2024:": {
+                "count_players": 9,
+                "players_names": [
+                    "Andrewgodx",
+                    "I7etrkukushkin",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Mmeddl",
+                    "Mmmmkkkrrrnnnn",
+                    "Rjg_13",
+                    "Stresnyashka",
+                    "\u041a\u0438\u0440\u0438\u043b\u043b"
+                ],
+                "knockouts": 2,
+                "knocks_enemies": [
+                    "Metelsky_al",
+                    "\u041a\u0438\u0440\u0438\u043b\u043b"
+                ],
+                "end_level": 13,
+                "live_time": "3:48:25",
+                "place": "5/9"
+            }
+        },
+        "reentries": 0,
+        "total_knocked_out": 2,
+        "max_level": 14,
+        "games_played": 4,
+        "knocked_out_for_reentry": 2
+    },
+    "Liza_azaza": {
+        "tournaments": {
+            "09/13/2024:": {
+                "count_players": 9,
+                "players_names": [
+                    "Andrewgodx",
+                    "Gorosha007",
+                    "I7etrkukushkin",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Mmeddl",
+                    "Rjg_13",
+                    "Stresnyashka",
+                    "Ogurchick"
+                ],
+                "end_level": 10,
+                "live_time": "2:37:07",
+                "place": "6/9"
+            },
+            "09/14/2024:": {
+                "count_players": 6,
+                "players_names": [
+                    "Andrewgodx",
+                    "I7etrkukushkin",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Rjg_13",
+                    "Stresnyashka"
+                ],
+                "knockouts": 1,
+                "knocks_enemies": [
+                    "Metelsky_al"
+                ],
+                "end_level": 10,
+                "live_time": "2:33:57",
+                "place": "5/6"
+            },
+            "10/04/2024:": {
+                "count_players": 9,
+                "players_names": [
+                    "Andrewgodx",
+                    "I7etrkukushkin",
+                    "Krashennyi",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Mmeddl",
+                    "Rjg_13",
+                    "Stresnyashka",
+                    "\u041a\u0438\u0440\u0438\u043b\u043b",
+                    "\u0414\u043c\u0438\u0442\u0440\u0438\u0439"
+                ],
+                "end_level": 15,
+                "live_time": "4:43:47",
+                "place": "6/10"
+            },
+            "10/11/2024:": {
+                "count_players": 9,
+                "players_names": [
+                    "Andrewgodx",
+                    "I7etrkukushkin",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Mmeddl",
+                    "Mmmmkkkrrrnnnn",
+                    "Rjg_13",
+                    "Stresnyashka",
+                    "\u041a\u0438\u0440\u0438\u043b\u043b"
+                ],
+                "end_level": 10,
+                "live_time": "3:04:41",
+                "place": "7/9"
+            }
+        },
+        "reentries": 0,
+        "total_knocked_out": 1,
+        "max_level": 15,
+        "games_played": 4,
+        "knocked_out_for_reentry": 1
+    },
+    "Metelsky_al": {
+        "tournaments": {
+            "09/13/2024:": {
+                "count_players": 9,
+                "players_names": [
+                    "Andrewgodx",
+                    "Gorosha007",
+                    "I7etrkukushkin",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Mmeddl",
+                    "Rjg_13",
+                    "Stresnyashka",
+                    "Ogurchick"
+                ],
+                "knockouts": 2,
+                "knocks_enemies": [
+                    "Andrewgodx",
+                    "I7etrkukushkin"
+                ],
+                "end_level": 12,
+                "live_time": "3:35:11",
+                "place": "5/9"
+            },
+            "09/14/2024:": {
+                "count_players": 6,
+                "players_names": [
+                    "Andrewgodx",
+                    "I7etrkukushkin",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Rjg_13",
+                    "Stresnyashka"
+                ],
+                "end_level": 8,
+                "live_time": "1:57:52",
+                "place": "6/6"
+            },
+            "10/04/2024:": {
+                "count_players": 9,
+                "players_names": [
+                    "Andrewgodx",
+                    "I7etrkukushkin",
+                    "Krashennyi",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Mmeddl",
+                    "Rjg_13",
+                    "Stresnyashka",
+                    "\u041a\u0438\u0440\u0438\u043b\u043b",
+                    "\u0414\u043c\u0438\u0442\u0440\u0438\u0439"
+                ],
+                "knockouts": 2,
+                "knocks_enemies": [
+                    "Rjg_13",
+                    "Krashennyi"
+                ],
+                "end_level": 16,
+                "live_time": "4:49:22",
+                "place": "5/10"
+            },
+            "10/11/2024:": {
+                "count_players": 9,
+                "players_names": [
+                    "Andrewgodx",
+                    "I7etrkukushkin",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Mmeddl",
+                    "Mmmmkkkrrrnnnn",
+                    "Rjg_13",
+                    "Stresnyashka",
+                    "\u041a\u0438\u0440\u0438\u043b\u043b"
+                ],
+                "end_level": 8,
+                "live_time": "2:13:13",
+                "place": "8/9"
+            }
+        },
+        "reentries": 1,
+        "total_knocked_out": 10,
+        "max_level": 16,
+        "games_played": 4,
+        "knocked_out_for_reentry": 0
+    },
+    "Mmeddl": {
+        "tournaments": {
+            "09/13/2024:": {
+                "count_players": 9,
+                "players_names": [
+                    "Andrewgodx",
+                    "Gorosha007",
+                    "I7etrkukushkin",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Mmeddl",
+                    "Rjg_13",
+                    "Stresnyashka",
+                    "Ogurchick"
+                ],
+                "knockouts": 3,
+                "knocks_enemies": [
+                    "Ogurchick",
+                    "Stresnyashka",
+                    "Rjg_13"
+                ],
+                "live_time": "0001-01-01 00:00:00"
+            },
+            "10/04/2024:": {
+                "count_players": 9,
+                "players_names": [
+                    "Andrewgodx",
+                    "I7etrkukushkin",
+                    "Krashennyi",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Mmeddl",
+                    "Rjg_13",
+                    "Stresnyashka",
+                    "\u041a\u0438\u0440\u0438\u043b\u043b",
+                    "\u0414\u043c\u0438\u0442\u0440\u0438\u0439"
+                ],
+                "knockouts": 1,
+                "knocks_enemies": [
+                    "Andrewgodx"
+                ],
+                "live_time": "0001-01-01 00:00:00"
+            },
+            "10/11/2024:": {
+                "count_players": 9,
+                "players_names": [
+                    "Andrewgodx",
+                    "I7etrkukushkin",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Mmeddl",
+                    "Mmmmkkkrrrnnnn",
+                    "Rjg_13",
+                    "Stresnyashka",
+                    "\u041a\u0438\u0440\u0438\u043b\u043b"
+                ],
+                "knockouts": 1,
+                "knocks_enemies": [
+                    "Stresnyashka"
+                ],
+                "end_level": 15,
+                "live_time": "4:24:12",
+                "place": "3/9"
+            }
+        },
+        "reentries": 1,
+        "total_knocked_out": 5,
+        "max_level": 16,
+        "games_played": 3,
+        "knocked_out_for_reentry": 0
+    },
+    "Rjg_13": {
+        "tournaments": {
+            "09/13/2024:": {
+                "count_players": 9,
+                "players_names": [
+                    "Andrewgodx",
+                    "Gorosha007",
+                    "I7etrkukushkin",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Mmeddl",
+                    "Rjg_13",
+                    "Stresnyashka",
+                    "Ogurchick"
+                ],
+                "knockouts": 1,
+                "knocks_enemies": [
+                    "Liza_azaza"
+                ],
+                "end_level": 14,
+                "live_time": "3:56:31",
+                "place": "3/9"
+            },
+            "09/14/2024:": {
+                "count_players": 6,
+                "players_names": [
+                    "Andrewgodx",
+                    "I7etrkukushkin",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Rjg_13",
+                    "Stresnyashka"
+                ],
+                "knockouts": 3,
+                "knocks_enemies": [
+                    "Liza_azaza",
+                    "I7etrkukushkin",
+                    "Stresnyashka"
+                ],
+                "live_time": "0001-01-01 00:00:00"
+            },
+            "10/04/2024:": {
+                "count_players": 9,
+                "players_names": [
+                    "Andrewgodx",
+                    "I7etrkukushkin",
+                    "Krashennyi",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Mmeddl",
+                    "Rjg_13",
+                    "Stresnyashka",
+                    "\u041a\u0438\u0440\u0438\u043b\u043b",
+                    "\u0414\u043c\u0438\u0442\u0440\u0438\u0439"
+                ],
+                "end_level": 12,
+                "live_time": "3:49:37",
+                "place": "9/10"
+            },
+            "10/11/2024:": {
+                "count_players": 9,
+                "players_names": [
+                    "Andrewgodx",
+                    "I7etrkukushkin",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Mmeddl",
+                    "Mmmmkkkrrrnnnn",
+                    "Rjg_13",
+                    "Stresnyashka",
+                    "\u041a\u0438\u0440\u0438\u043b\u043b"
+                ],
+                "knockouts": 3,
+                "knocks_enemies": [
+                    "I7etrkukushkin",
+                    "Mmeddl",
+                    "Mmmmkkkrrrnnnn"
+                ],
+                "live_time": "0001-01-01 00:00:00"
+            }
+        },
+        "reentries": 3,
+        "total_knocked_out": 7,
+        "max_level": 15,
+        "games_played": 4,
+        "knocked_out_for_reentry": 2
+    },
+    "Stresnyashka": {
+        "tournaments": {
+            "09/13/2024:": {
+                "count_players": 9,
+                "players_names": [
+                    "Andrewgodx",
+                    "Gorosha007",
+                    "I7etrkukushkin",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Mmeddl",
+                    "Rjg_13",
+                    "Stresnyashka",
+                    "Ogurchick"
+                ],
+                "knockouts": 1,
+                "knocks_enemies": [
+                    "Metelsky_al"
+                ],
+                "end_level": 14,
+                "live_time": "3:55:01",
+                "place": "4/9"
+            },
+            "09/14/2024:": {
+                "count_players": 6,
+                "players_names": [
+                    "Andrewgodx",
+                    "I7etrkukushkin",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Rjg_13",
+                    "Stresnyashka"
+                ],
+                "knockouts": 1,
+                "knocks_enemies": [
+                    "Andrewgodx"
+                ],
+                "end_level": 14,
+                "live_time": "3:28:24",
+                "place": "2/6"
+            },
+            "10/04/2024:": {
+                "count_players": 9,
+                "players_names": [
+                    "Andrewgodx",
+                    "I7etrkukushkin",
+                    "Krashennyi",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Mmeddl",
+                    "Rjg_13",
+                    "Stresnyashka",
+                    "\u041a\u0438\u0440\u0438\u043b\u043b",
+                    "\u0414\u043c\u0438\u0442\u0440\u0438\u0439"
+                ],
+                "knockouts": 2,
+                "knocks_enemies": [
+                    "I7etrkukushkin",
+                    "Metelsky_al"
+                ],
+                "end_level": 16,
+                "live_time": "4:58:56",
+                "place": "4/10"
+            },
+            "10/11/2024:": {
+                "count_players": 9,
+                "players_names": [
+                    "Andrewgodx",
+                    "I7etrkukushkin",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Mmeddl",
+                    "Mmmmkkkrrrnnnn",
+                    "Rjg_13",
+                    "Stresnyashka",
+                    "\u041a\u0438\u0440\u0438\u043b\u043b"
+                ],
+                "knockouts": 1,
+                "knocks_enemies": [
+                    "Andrewgodx"
+                ],
+                "end_level": 14,
+                "live_time": "4:12:07",
+                "place": "4/9"
+            }
+        },
+        "reentries": 1,
+        "total_knocked_out": 7,
+        "max_level": 16,
+        "games_played": 4,
+        "knocked_out_for_reentry": 2
+    },
+    "Ogurchick": {
+        "tournaments": {
+            "09/13/2024:": {
+                "count_players": 9,
+                "players_names": [
+                    "Andrewgodx",
+                    "Gorosha007",
+                    "I7etrkukushkin",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Mmeddl",
+                    "Rjg_13",
+                    "Stresnyashka",
+                    "Ogurchick"
+                ],
+                "end_level": 7,
+                "live_time": "1:48:11",
+                "place": "9/9"
+            }
+        },
+        "reentries": 1,
+        "total_knocked_out": 0,
+        "max_level": 7,
+        "games_played": 1
+    },
+    "Krashennyi": {
+        "tournaments": {
+            "10/04/2024:": {
+                "count_players": 9,
+                "players_names": [
+                    "Andrewgodx",
+                    "I7etrkukushkin",
+                    "Krashennyi",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Mmeddl",
+                    "Rjg_13",
+                    "Stresnyashka",
+                    "\u041a\u0438\u0440\u0438\u043b\u043b",
+                    "\u0414\u043c\u0438\u0442\u0440\u0438\u0439"
+                ],
+                "end_level": 12,
+                "live_time": "3:49:49",
+                "place": "8/10"
+            }
+        },
+        "reentries": 0,
+        "total_knocked_out": 0,
+        "max_level": 12,
+        "games_played": 1
+    },
+    "Lordd95": {
+        "tournaments": {
+            "10/04/2024:": {
+                "count_players": 9,
+                "players_names": [
+                    "Andrewgodx",
+                    "I7etrkukushkin",
+                    "Krashennyi",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Mmeddl",
+                    "Rjg_13",
+                    "Stresnyashka",
+                    "\u041a\u0438\u0440\u0438\u043b\u043b",
+                    "\u0414\u043c\u0438\u0442\u0440\u0438\u0439"
+                ],
+                "knockouts": 2,
+                "knocks_enemies": [
+                    "Liza_azaza",
+                    "Stresnyashka"
+                ],
+                "live_time": "0001-01-01 00:00:00"
+            }
+        },
+        "reentries": 3,
+        "total_knocked_out": 6,
+        "max_level": 16,
+        "games_played": 1,
+        "knocked_out_for_reentry": 1
+    },
+    "Danil": {
+        "tournaments": {
+            "10/04/2024:": {
+                "live_time": "0001-01-01 00:00:00"
+            }
+        },
+        "reentries": 0,
+        "total_knocked_out": 0,
+        "max_level": 16,
+        "games_played": 1,
+        "knocked_out_for_reentry": 0
+    },
+    "Mmmmkkkrrrnnnn": {
+        "tournaments": {
+            "10/11/2024:": {
+                "count_players": 9,
+                "players_names": [
+                    "Andrewgodx",
+                    "I7etrkukushkin",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Mmeddl",
+                    "Mmmmkkkrrrnnnn",
+                    "Rjg_13",
+                    "Stresnyashka",
+                    "\u041a\u0438\u0440\u0438\u043b\u043b"
+                ],
+                "knockouts": 1,
+                "knocks_enemies": [
+                    "Liza_azaza"
+                ],
+                "end_level": 15,
+                "live_time": "4:39:44",
+                "place": "2/9"
+            }
+        },
+        "reentries": 2,
+        "total_knocked_out": 2,
+        "max_level": 15,
+        "games_played": 1,
+        "knocked_out_for_reentry": 2
+    },
+    "\u041a\u0438\u0440\u0438\u043b\u043b": {
+        "tournaments": {
+            "10/11/2024:": {
+                "count_players": 9,
+                "players_names": [
+                    "Andrewgodx",
+                    "I7etrkukushkin",
+                    "Liza_azaza",
+                    "Metelsky_al",
+                    "Mmeddl",
+                    "Mmmmkkkrrrnnnn",
+                    "Rjg_13",
+                    "Stresnyashka",
+                    "\u041a\u0438\u0440\u0438\u043b\u043b"
+                ],
+                "end_level": 12,
+                "live_time": "3:28:30",
+                "place": "6/9"
+            }
+        },
+        "reentries": 0,
+        "total_knocked_out": 0,
+        "max_level": 12,
+        "games_played": 1
+    }
+}
